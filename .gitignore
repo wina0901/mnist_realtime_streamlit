@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python Build
+build/
+dist/
+*.egg-info/
+
+# Docker
+*.tar
+
+# Model Cache
+.cache/
+
+# ONNX Runtime Cache
+onnxruntime_logs/
+
+# Temporary Files
+tmp/
+temp/
+
+# Test
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Environment Variables
+.env
